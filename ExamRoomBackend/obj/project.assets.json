@@ -1973,11 +1973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ola\\Desktop\\ExamRoomBackend\\ExamRoomBackend\\ExamRoomBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Ola\\Desktop\\ExamRoomBackendAuthetication\\ExamRoomBackend\\ExamRoomBackend.csproj",
       "projectName": "ExamRoomBackend",
-      "projectPath": "C:\\Users\\Ola\\Desktop\\ExamRoomBackend\\ExamRoomBackend\\ExamRoomBackend.csproj",
+      "projectPath": "C:\\Users\\Ola\\Desktop\\ExamRoomBackendAuthetication\\ExamRoomBackend\\ExamRoomBackend.csproj",
       "packagesPath": "C:\\Users\\Ola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ola\\Desktop\\ExamRoomBackend\\ExamRoomBackend\\obj\\",
+      "outputPath": "C:\\Users\\Ola\\Desktop\\ExamRoomBackendAuthetication\\ExamRoomBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

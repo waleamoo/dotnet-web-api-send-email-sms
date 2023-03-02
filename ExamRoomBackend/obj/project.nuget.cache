@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0KG3JsR14Dswh2fi/6JCoMlI2p6i+SFAbzyBYbtON4K7QFWXuMrbzkaNAUWBqByVqBfNuZiN9p8Cjk5Pdd9Ukg==",
+  "dgSpecHash": "ika+oyy0Nlv8nikkRCLiXEWL5clWzqm09e9mASer1rtaYqcxox5b8lKXPsqx3h1F/ZQ9OK1+tSHWsrHtoMlUoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ola\\Desktop\\ExamRoomBackend\\ExamRoomBackend\\ExamRoomBackend.csproj",
+  "projectFilePath": "C:\\Users\\Ola\\Desktop\\ExamRoomBackendAuthetication\\ExamRoomBackend\\ExamRoomBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ola\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
